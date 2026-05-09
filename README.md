@@ -1,4 +1,4 @@
-# opcai-policy
+# opc-ai-policy
 中国“一人公司”(OPC)与超级个体政策指南 | China Solopreneur Policy Tracker. 全网最全的个体创业、税收优惠、注册合规及补贴政策开源汇总。消除信息差，助力独立开发者与自由职业者。欢迎 Star ⭐️ 与 PR 共建！🌐 更多超级个体 AI 工具详见 1qi.ai
 # 🇨🇳 中国“一人公司” (OPC) 政策与新闻动态指南
 **China One-Person Company (Solopreneur) Policy Archive**
